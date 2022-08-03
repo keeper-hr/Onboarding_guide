@@ -3,7 +3,7 @@
   
 ## Creating a KeeperAI Profile
   
-- Navigate to [https://keeper-hr-test.web.app/](https://keeper-hr-test.web.app/)
+- Navigate to [https://keeper-hr-test.web.app/](https://keeper-hr-test.web.app/ taget="blank")
   
 - Click on "Sign up" to create an account.
   
