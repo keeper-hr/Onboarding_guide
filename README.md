@@ -54,8 +54,9 @@
  
   <img src="https://user-images.githubusercontent.com/61127092/182658358-2492fe87-fc5e-402b-aa2d-b8f893313a4f.png" width="700">
   
-  <img src="https://user-images.githubusercontent.com/61127092/182658549-bdaf9a0f-7804-4ac7-bb0c-a32c7c212d77.png" width="700">
+  <img src="https://user-images.githubusercontent.com/61127092/182673364-f0f0dc8e-eb01-4806-b65b-d3ac4b87890d.png" width="700">
   
+
   ### My Vibe of the Day/Innovations
   *These features allow the user to add their Vibe and to share an Innovation with the team*
   
