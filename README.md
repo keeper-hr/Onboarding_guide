@@ -155,9 +155,27 @@
   - The Daily Question can be asked by clicking "Ask New Question" 
   
    <img src="https://user-images.githubusercontent.com/61127092/182676745-9ad673a8-3c06-4799-a05e-0744792a099a.png" width="700">
+   
+  - Enter question into the field provided then press "Add Question"
+
+   <img src="https://user-images.githubusercontent.com/61127092/182677221-caa9ac8c-a250-47c1-8ed8-402c76dd0ef6.png" width="700">
+   
+  - This question will now be visible to company members when they visit their profile page.
+  
+  - Responses to the current question will be viewable by the admin under "Current Responses"
+
+   <img src="https://user-images.githubusercontent.com/61127092/182678153-3fd1a739-c6c0-4afb-b84c-7e236e1319d3.png" width="700">
+   
+  - To view previously asked questions and responses click "Show Previous Questions" where they will be displayed in an accordion style menu
+  
+  <img src="https://user-images.githubusercontent.com/61127092/182678457-6a75f25a-ea2a-4be7-b292-f9e227561ea3.png" width="700">
+
   
   
  
+
+
+
 
 
 
