@@ -55,6 +55,14 @@
   <img src="https://user-images.githubusercontent.com/61127092/182658358-2492fe87-fc5e-402b-aa2d-b8f893313a4f.png" width="700">
   
   <img src="https://user-images.githubusercontent.com/61127092/182658549-bdaf9a0f-7804-4ac7-bb0c-a32c7c212d77.png" width="700">
+  
+  ### My Vibe of the Day/Innovations
+  *These features allow the user to add their Vibe and to share an Innovation with the team*
+  
+  - Add a new Vibe or Innovation by clicking the purple button
+  
+  <img src="https://user-images.githubusercontent.com/61127092/182659618-5c4f77b9-19fe-43c9-be2c-500802c63182.png" width="700">
+
 
 
  
