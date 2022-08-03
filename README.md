@@ -135,11 +135,12 @@
   <img src="https://user-images.githubusercontent.com/61127092/182673821-6d2f5f66-5e72-496a-b8d5-10f4188c0ea6.png" width="700">
   
   ### Company Admin Profiles
-  *On this page the admin has the ability to edit the company name, edit the company domain and activate or deactivate company member accounts*
+  *On this page the admin has the ability to edit the company name, edit the company domain and activate, upload or change the company logo or deactivate company member accounts*
   
   - The Company Name and the Company Domain can be changed by entering changes in the following fields and clicking "Save"
   
   <img src="https://user-images.githubusercontent.com/61127092/182674548-52f0fa66-a5b0-4f28-802b-466beedcff57.png" width="700">
+  
   
   
 
