@@ -81,9 +81,9 @@
   ### Team Vibe/Team Innovation
   *These pages display the collected Vibes of the Day and Innovations from the entire team*
 
-  -To view Team Vibes or Team Innovations navigate to these pages from the menu or click the corresponding buttons under each feature
+  - To view Team Vibes or Team Innovations navigate to these pages from the menu or click the corresponding buttons under each feature
   
-  -On these pages, you can view the entries from other team members and "like" them by clicking the heart on the entry
+  - On these pages, you can view the entries from other team members and "like" them by clicking the heart on the entry
   
   <img src="https://user-images.githubusercontent.com/61127092/182664686-732dc220-0396-4a82-b4a7-9add40456a72.png" width="700">
   
