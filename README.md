@@ -141,8 +141,13 @@
   
   <img src="https://user-images.githubusercontent.com/61127092/182674548-52f0fa66-a5b0-4f28-802b-466beedcff57.png" width="700">
   
+  - The admin can view the entire collection of company users and activate or deactivate and account by clicking the slider button: 
+  
+   <img src="https://user-images.githubusercontent.com/61127092/182675277-d33f7bb0-f489-4d73-872e-96dd8d0c9a8e.png" width="700">
   
   
+  
+
 
 
 
