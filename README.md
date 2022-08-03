@@ -39,9 +39,14 @@
 - The next page will take you to a summary of your six questions filled out.  Here you can edit if you wish to change an answer or a picture.  If everything looks good click "NEXT"
 
   <img src="https://user-images.githubusercontent.com/61127092/182655422-8ccbcdba-7b03-4c6a-9489-5fbbaf91fb96.png" width="700">
-
-
   
+- After clicking "NEXT" your profile will be sent to our AI engine where it will evaluate your answers. This process takes up to 30 seconds.
+- Congratulations!  Your KeeperAI profile has been created!  Now you can view the results by clicking VIEW INSIGHTS 
+
+  <img src="https://user-images.githubusercontent.com/61127092/182656246-f0afddf0-35b3-4c3b-ae4b-926c97d9bc66.png" width="700">
+  
+
+
  
 
   
