@@ -61,7 +61,7 @@
   
   - Add a new Vibe or Innovation by clicking the purple button
   
-  <img src="https://user-images.githubusercontent.com/61127092/182659618-5c4f77b9-19fe-43c9-be2c-500802c63182.png" width="700">
+  <img src="https://user-images.githubusercontent.com/61127092/182659618-5c4f77b9-19fe-43c9-be2c-500802c63182.png" width="500">
 
 
 
