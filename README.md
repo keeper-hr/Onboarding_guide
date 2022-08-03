@@ -1,5 +1,5 @@
 # Onboardin Guide
-<p>This will provide a step by step guide to create a profile and describe how to interact with the KeeperAI features<p>
+*This will provide a step by step guide to create a profile and describe how to interact with the KeeperAI features*
   
 ## Creating a KeeperAI Profile
   
@@ -47,6 +47,7 @@
   
   
 ## Using KeeperAI Features
+  *This section will explain how to interact with the KeeperAI platform features.*
 
 
  
