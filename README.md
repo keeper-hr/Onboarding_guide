@@ -7,6 +7,10 @@
   
 - Click on "Sign up" to create an account.
   
+<img src="https://user-images.githubusercontent.com/61127092/182635158-30f48d7b-9d54-4660-8e84-4a7d8051e5e0.png" width ="500">
 
+  
+  
+  
 <img src="https://user-images.githubusercontent.com/61127092/182633312-cdb4ccfd-3719-44a9-837f-749257077f89.png" width="300">
 
