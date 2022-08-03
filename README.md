@@ -32,7 +32,7 @@
 
 - Continue this same process with the remaining 5 questions.  After completing the 6 questions click "NEXT" to be taken to the MY INFO page
 
-- On the MY INFO page fillin the fields with the appropriate information.  The only required fields are "FULL NAME" and "BIRTHDAY".  You can also upload a profile picture on this page.  Once finished, click "NEXT"
+- On the MY INFO page fill in the fields with the appropriate information.  The only required fields are "FULL NAME" and "BIRTHDAY".  You can also upload a profile picture on this page.  Once finished, click "NEXT"
 
   <img src="https://user-images.githubusercontent.com/61127092/182642995-b9bb8d12-b0e1-408b-a748-abe487c6a961.png" width="700">
 
