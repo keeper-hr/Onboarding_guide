@@ -103,6 +103,11 @@
   
   <img src="https://user-images.githubusercontent.com/61127092/182667049-96a449df-6134-4685-8db3-3bccb1de6bc0.png" width="700">
   
+  - Click on "Group Chat" to interact with members of this Affinity Group
+  
+  - To post within the group, click the "Start a post" button
+  
+  <img src="https://user-images.githubusercontent.com/61127092/182667830-7b3a60c6-1615-4223-9b5b-aba52ea0ef25.png" width="700">
 
 
 
