@@ -1,7 +1,7 @@
 # Onboardin Guide
 <p>This will provide a step by step guide to create a profile and describe how to interact with the KeeperAI features<p>
   
-### Creating a KeeperAI Profile
+## Creating a KeeperAI Profile
   
 - Navigate to [https://keeper-hr-test.web.app/](https://keeper-hr-test.web.app/)
   
@@ -45,6 +45,8 @@
 
   <img src="https://user-images.githubusercontent.com/61127092/182656246-f0afddf0-35b3-4c3b-ae4b-926c97d9bc66.png" width="700">
   
+  
+## Using KeeperAI Features
 
 
  
