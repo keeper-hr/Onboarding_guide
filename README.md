@@ -8,5 +8,5 @@
 - Click on "Sign up" to create an account.
   
 
-<img src="https://user-images.githubusercontent.com/61127092/182633312-cdb4ccfd-3719-44a9-837f-749257077f89.png" width="200">
+<img src="https://user-images.githubusercontent.com/61127092/182633312-cdb4ccfd-3719-44a9-837f-749257077f89.png" width="300">
 
