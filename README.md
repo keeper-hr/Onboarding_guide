@@ -7,10 +7,13 @@
   
 - Click on "Sign up" to create an account.
   
-<img src="https://user-images.githubusercontent.com/61127092/182635158-30f48d7b-9d54-4660-8e84-4a7d8051e5e0.png" width ="500">
+<img src="https://user-images.githubusercontent.com/61127092/182635158-30f48d7b-9d54-4660-8e84-4a7d8051e5e0.png" width ="700">
 
-  
+- Create an account by entering your name and email address and create a password.  
   
   
 <img src="https://user-images.githubusercontent.com/61127092/182633312-cdb4ccfd-3719-44a9-837f-749257077f89.png" width="300">
-
+  
+- After creating an account, continue to Create Profile
+  
+<img src="https://user-images.githubusercontent.com/61127092/182636180-72faa54d-33e8-4825-a14f-b79f0cbfbd0b.png" width="700">
