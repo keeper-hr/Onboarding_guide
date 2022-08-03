@@ -96,7 +96,7 @@
   
   - Navigate to the Affinity Groups page from the pulldown menu
   
-  - On this page, you will find a number of groups that you can join.  To join a specific grou simply click the heart icon.
+  - On this page, you will find a number of groups that you can join.  To join a specific group simply click the heart icon.
     
   <img src="https://user-images.githubusercontent.com/61127092/182666627-a28d2819-3efd-415a-9106-0ada5ed0ba4c.png" width="700">
   
