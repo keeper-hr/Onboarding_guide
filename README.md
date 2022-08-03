@@ -7,5 +7,6 @@
   
 - Click on "Sign up" to create an account.
   
-![Screen Shot 2022-08-03 at 7 22 26 AM](https://user-images.githubusercontent.com/61127092/182632516-a5d93229-6e8c-49fc-8bb6-9fe8aae619ae.png)
+
+![Screen Shot 2022-08-03 at 7 22 26 AM](https://user-images.githubusercontent.com/61127092/182633312-cdb4ccfd-3719-44a9-837f-749257077f89.png)
 
