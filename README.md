@@ -130,7 +130,12 @@
   ## Admin Features
   *This section will describe features available to an ADMIN level account*
   
+  - An ADMIN level account will have two additional sections in the navigation menu: Company Admin Profiles and Company Summary
   
+  <img src="https://user-images.githubusercontent.com/61127092/182673821-6d2f5f66-5e72-496a-b8d5-10f4188c0ea6.png" width="700">
+  
+  
+
 
 
 
