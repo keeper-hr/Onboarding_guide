@@ -108,6 +108,12 @@
   - To post within the group, click the "Start a post" button
   
   <img src="https://user-images.githubusercontent.com/61127092/182667830-7b3a60c6-1615-4223-9b5b-aba52ea0ef25.png" width="700">
+  
+  - Enter post in the text field provided.  A photo can be added to the post by clicking the image icon
+
+  <img src="https://user-images.githubusercontent.com/61127092/182668414-7296de44-5421-4fa9-bddc-72f5b3d8779c.png" width="700">
+
+  <img src="https://user-images.githubusercontent.com/61127092/182668546-f9339f59-f300-49c3-8323-2ae845fd232e.png" width="700">
 
 
 
