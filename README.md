@@ -12,7 +12,7 @@
 - Create an account by entering your name and email address and create a password.  
   
   
-  <img src="https://user-images.githubusercontent.com/61127092/182633312-cdb4ccfd-3719-44a9-837f-749257077f89.png" width="300">
+  <img src="https://user-images.githubusercontent.com/61127092/182633312-cdb4ccfd-3719-44a9-837f-749257077f89.png" width="500">
   
 - After creating an account, continue to Create Profile
   
@@ -28,7 +28,7 @@
   
 - Once image is chosen, type a description of why you chose this image (up to 300 characters) and then click "SAVE"
   
-  <img src="https://user-images.githubusercontent.com/61127092/182639787-8323e667-9e2d-4e85-a7d3-66fd65be2067.png" width="300">
+  <img src="https://user-images.githubusercontent.com/61127092/182639787-8323e667-9e2d-4e85-a7d3-66fd65be2067.png" width="500">
 
 - Continue this same process with the remaining 5 questions.  After completing the 6 questions click "NEXT" to be taken to the MY INFO page
 
