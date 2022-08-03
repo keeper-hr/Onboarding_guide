@@ -26,9 +26,13 @@
   
   <img src="https://user-images.githubusercontent.com/61127092/182638908-a755c76c-1d98-4f59-9d2a-6300496518f5.png" width="700">
   
-- Once image is chosen, type a description of why you chose this image (up to 300 characters)
+- Once image is chosen, type a description of why you chose this image (up to 300 characters) and then click "SAVE"
   
   <img src="https://user-images.githubusercontent.com/61127092/182639787-8323e667-9e2d-4e85-a7d3-66fd65be2067.png" width="300">
+
+- Continue this same process with the remaining 5 questions
+  
+  
 
 
   
