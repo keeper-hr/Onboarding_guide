@@ -70,6 +70,10 @@
   - Describe your Vibe in the text field provided (up to 300 characters) and click "SAVE"
   
   <img src="https://user-images.githubusercontent.com/61127092/182661296-1870e903-1735-4fc7-a905-0fd259a2a851.png" width="300">
+  
+  - You've posted a Vibe! Your previous vibes cann be viewed by clicking the white left or right arrows on the image.
+  
+  <img src="https://user-images.githubusercontent.com/61127092/182661947-747b3be8-f2c8-4505-a00b-727e8008eb5b.png" width="300">
 
 
 
