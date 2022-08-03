@@ -144,9 +144,23 @@
   - The admin can view the entire collection of company users and activate or deactivate and account by clicking the slider button: 
   
    <img src="https://user-images.githubusercontent.com/61127092/182675277-d33f7bb0-f489-4d73-872e-96dd8d0c9a8e.png" width="700">
+   
+  ### Company Summary
+  *On this page the admin can view a summary of the total number of company users, total number of Vibes and total number of Innovations. This is also where the admin will be able to pose a "Daily Question" to the members of the company*
+  
+  - The Company Summary can be viewed from this page with links to specific sections by clicking the corresponding buttons
+  
+  <img src="https://user-images.githubusercontent.com/61127092/182676294-dcdf241a-d390-49fb-9c91-1c40847f6ce5.png" width="700">
+  
+  - The Daily Question can be asked by clicking "Ask New Question" 
+  
+   <img src="https://user-images.githubusercontent.com/61127092/182676745-9ad673a8-3c06-4799-a05e-0744792a099a.png" width="700">
   
   
-  
+ 
+
+
+
 
 
 
