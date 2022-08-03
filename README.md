@@ -25,6 +25,13 @@
 - In the search field, type the term that matches your answer to the question in the heading. You can choose to search images from Giphy or Google or you can drag your own image into the search field if you like
   
   <img src="https://user-images.githubusercontent.com/61127092/182638908-a755c76c-1d98-4f59-9d2a-6300496518f5.png" width="700">
+  
+- Once image is chosen, type a description of why you chose this image (up to 300 characters)
+  
+  <img src="https://user-images.githubusercontent.com/61127092/182639787-8323e667-9e2d-4e85-a7d3-66fd65be2067.png" width="300">
+
+
+  
 
 
 
