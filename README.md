@@ -48,9 +48,17 @@
   
 ## Using KeeperAI Features
   *This section will explain how to interact with the KeeperAI platform features.*
+  
+  ### Navigation
+  - On the upper right side of the header there is a pull down menu on your name.  Click it to expand the navigation menu and select a page.
+ 
+  <img src="https://user-images.githubusercontent.com/61127092/182658358-2492fe87-fc5e-402b-aa2d-b8f893313a4f.png" width="700">
+  
+  <img src="https://user-images.githubusercontent.com/61127092/182658549-bdaf9a0f-7804-4ac7-bb0c-a32c7c212d77.png" width="700">
 
 
  
+
 
   
 
