@@ -62,10 +62,19 @@
   - Add a new Vibe or Innovation by clicking the purple button
   
   <img src="https://user-images.githubusercontent.com/61127092/182659618-5c4f77b9-19fe-43c9-be2c-500802c63182.png" width="500">
+  
+  - In the search field enter a term that describes your vibe and choose a GIPHY or GOOGLE image that satisfies your Vibe.
+  
+  <img src="https://user-images.githubusercontent.com/61127092/182660728-cd22a361-101c-486a-ba9a-51e8700031e2.png" width="700">
+  
+  - Describe your Vibe in the text field provided (up to 300 characters) and click "SAVE"
+  
+  <img src="https://user-images.githubusercontent.com/61127092/182661296-1870e903-1735-4fc7-a905-0fd259a2a851.png" width="300">
 
 
 
- 
+
+
 
 
   
