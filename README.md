@@ -74,6 +74,7 @@
   - You've posted a Vibe! Your previous vibes cann be viewed by clicking the white left or right arrows on the image.
   
   <img src="https://user-images.githubusercontent.com/61127092/182661947-747b3be8-f2c8-4505-a00b-727e8008eb5b.png" width="300">
+  
   *Note: Adding an Innovation is the same process as adding a Vibe of the Day*
   
 
