@@ -87,7 +87,8 @@
   <img src="https://user-images.githubusercontent.com/61127092/182664686-732dc220-0396-4a82-b4a7-9add40456a72.png" width="700">
   
   - Innovations will be ranked by badges representing the number of like received from the team (0-9: purple, 10-19: green, 20+ red)
-
+  
+  <img src="https://user-images.githubusercontent.com/61127092/182665457-9c132b87-331c-4405-b288-5d405a02d465.png" width="700">
 
 
 
