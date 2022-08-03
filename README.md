@@ -1,4 +1,4 @@
-# Onboardin Guide
+# Onboarding Guide
 *This will provide a step by step guide to create a profile and describe how to interact with the KeeperAI features*
   
 ## Creating a KeeperAI Profile
