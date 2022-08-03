@@ -89,6 +89,22 @@
   - Innovations will be ranked by badges representing the number of like received from the team (0-9: purple, 10-19: green, 20+ red)
   
   <img src="https://user-images.githubusercontent.com/61127092/182665457-9c132b87-331c-4405-b288-5d405a02d465.png" width="700">
+  
+  ### Affinity Groups
+  *Affinity Groups are breakout groups where people can interact with eachother around a specific affinity*
+  
+  - Navigate to the Affinity Groups page from the pulldown menu
+  
+  - On this page, you will find a number of groups that you can join.  To join a specific grou simply click the heart icon.
+    
+  <img src="https://user-images.githubusercontent.com/61127092/182666627-a28d2819-3efd-415a-9106-0ada5ed0ba4c.png" width="700">
+  
+  - Click on the group to see Affinty Group members and to engage with group features.
+  
+  <img src="https://user-images.githubusercontent.com/61127092/182667049-96a449df-6134-4685-8db3-3bccb1de6bc0.png" width="700">
+  
+
+
 
 
 
