@@ -32,15 +32,15 @@
 
 - Continue this same process with the remaining 5 questions.  After completing the 6 questions click "NEXT" to be taken to the MY INFO page
 
-- On the MY INFO page fill in the fields with the appropriate information.  The only required fields are "FULL NAME" and "BIRTHDAY".  You can also upload a profile picture on this page.  Once finished, click "SAVE"
+- On the MY INFO page fill in the fields with the appropriate information.  The only required fields are "FULL NAME" and "BIRTHDAY".  You can also upload a profile picture on this page.  Once finished, click "NEXT"
 
   <img src="https://user-images.githubusercontent.com/61127092/182642995-b9bb8d12-b0e1-408b-a748-abe487c6a961.png" width="700">
 
-- The next page will take you to a summary of your six questions filled out.  Here you can edit if you wish to change an answer or a picture.  If everything looks good click "NEXT"
+- The next page will take you to a summary of your six questions filled out.  Here you can edit if you wish to change an answer or a picture.  If everything looks good click "SAVE"
 
   <img src="https://user-images.githubusercontent.com/61127092/182655422-8ccbcdba-7b03-4c6a-9489-5fbbaf91fb96.png" width="700">
   
-- After clicking "NEXT" your profile will be sent to our AI engine where it will evaluate your answers. This process takes up to 30 seconds.
+- After clicking "SAVE" your profile will be sent to our AI engine where it will evaluate your answers. This process takes up to 30 seconds.
 - Congratulations!  Your KeeperAI profile has been created!  Now you can view the results by clicking VIEW INSIGHTS 
 
   <img src="https://user-images.githubusercontent.com/61127092/182656246-f0afddf0-35b3-4c3b-ae4b-926c97d9bc66.png" width="700">
