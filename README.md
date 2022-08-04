@@ -126,6 +126,20 @@
   
   <img src="https://user-images.githubusercontent.com/61127092/182669650-2b84eb15-7ad5-456f-8114-6bc3dc332fb9.png" width="700">
   
+  ## Managing Your KeeperAI Account
+  *This section describes how to edit your personal information (full name, email address) change your password, or delete your KeeperAI account*
+  
+  - Using the dropdown Navigation menu, select "Account"
+  
+  <img src="https://user-images.githubusercontent.com/61127092/182973897-c63d5db8-e727-49ee-af91-a89c07209493.png" width="500">
+  
+  - On this page, the user has the options of updating their Full Name and Email as well as an option to change password and to completely delete thier KeeperAI account
+    - Note: once an account is deleted there is no option for recovering the account
+    
+  <img src="https://user-images.githubusercontent.com/61127092/182974173-29a13ee3-8ca5-4217-b0f5-0bfd965620b4.png" width="700">
+
+
+
   
   ## Admin Features
   *This section will describe features available to an ADMIN level account*
